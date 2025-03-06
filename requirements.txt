@@ -1,0 +1,13 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+sqlalchemy>=1.4.23
+sqlmodel==0.0.14
+pydantic>=1.9.0
+pydantic-settings>=2.0.0
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.5
+redis>=4.3.4
+psycopg2-binary>=2.9.3
+python-dotenv>=0.19.0
+requests>=2.26.0

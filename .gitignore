@@ -1,0 +1,5 @@
+/pm-venv
+.env
+**/__pycache__/
+.vscode/
+.idea/
